@@ -1,8 +1,8 @@
-\# Sistema de Leilão
+\Sistema de Leilão
 
 
 
-\## 📌 Sobre o projeto
+\ Sobre o projeto
 
 
 
@@ -10,7 +10,7 @@ Este projeto consiste em um sistema desenvolvido para gerenciar uma casa de leil
 
 
 
-\## 💻 Tecnologias utilizadas
+\Tecnologias utilizadas
 
 
 
@@ -22,7 +22,7 @@ Este projeto consiste em um sistema desenvolvido para gerenciar uma casa de leil
 
 
 
-\## 🚀 Objetivo
+\Objetivo
 
 
 
