@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 \Sistema de Leilão
 
 
 
 \ Sobre o projeto
+=======
+Sistema de Leilão
+
+
+
+Sobre o projeto
+>>>>>>> d097570 (Botão salvar cadastrando produto no banco)
 
 
 
@@ -10,7 +18,11 @@ Este projeto consiste em um sistema desenvolvido para gerenciar uma casa de leil
 
 
 
+<<<<<<< HEAD
 \Tecnologias utilizadas
+=======
+💻 Tecnologias utilizadas
+>>>>>>> d097570 (Botão salvar cadastrando produto no banco)
 
 
 
@@ -22,7 +34,11 @@ Este projeto consiste em um sistema desenvolvido para gerenciar uma casa de leil
 
 
 
+<<<<<<< HEAD
 \Objetivo
+=======
+Objetivo
+>>>>>>> d097570 (Botão salvar cadastrando produto no banco)
 
 
 
